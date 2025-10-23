@@ -1,0 +1,13 @@
+﻿<PropertyGroup>
+  <OutputType>Exe</OutputType>
+  <TargetFramework>net9.0</TargetFramework>
+  <PackAsTool>true</PackAsTool>
+  <ToolCommandName>codestats</ToolCommandName>
+  <PackageId>codestats</PackageId>
+  <Authors>Naser Al-Asbahi</Authors>
+  <Description>A fast CLI tool to count lines of code by file type.</Description>
+  <PackageTags>cli lines-of-code statistics tool csharp</PackageTags>
+  <RepositoryUrl>https://github.com/n4sser77/codestats</RepositoryUrl>
+  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+</PropertyGroup>
+
