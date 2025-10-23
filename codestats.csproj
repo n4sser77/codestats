@@ -5,6 +5,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>codestats</ToolCommandName>
+    <Version>0.0.2-pre</Version>
     <PackageId>codestats</PackageId>
     <Authors>Naser Al-Asbahi</Authors>
     <Description>A fast CLI tool to count lines of code by file type.</Description>
